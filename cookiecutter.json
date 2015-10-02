@@ -1,0 +1,11 @@
+{
+    "project_name": "My Awesome Project"
+    , "project_description": "add a short project description here"
+    , "main_module": "Name of the project's main python module"
+    , "github_username": "Fueled"
+    , "github_repository": "my-awesome-project"
+    , "timezone": "UTC"
+    , "django_admin_email": "noreply@example.com"
+    , "version": "0.0.0"
+    , "newrelic" : "y"
+}
